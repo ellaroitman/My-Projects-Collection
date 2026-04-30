@@ -17,4 +17,4 @@
 Analysis of retail sales data to understand patterns in sales, profitability, and customer segments.
 
 * *Tools:* Python, Pandas, Matplotlib, Jupyter Notebook.
-* [🔗 View Full Analysis Code here](Sveta_Okun%26Ella_Denisov_Project3 (3).ipynb)
+* [🔗 View Full Analysis Code here](Sveta_Okun%26Ella_Denisov_Project3%20(3).ipynb)
